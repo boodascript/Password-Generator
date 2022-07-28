@@ -2,6 +2,8 @@
 
 Password generator with multiple configurations for randomized and secure password generation.
 
+<a href="https://boodascript.github.io/Password-Generator/" rel="nofollow">LIVE DEMO</a>
+
 ![mockup 1](https://user-images.githubusercontent.com/80648658/181655352-f5c4d1cb-7694-4365-b924-76181474ab63.PNG)
 
 
